@@ -2,7 +2,7 @@
 
 ##  The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set
  
- i.  Download the data from "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
+ i.  Download the data from "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip".
  ii. Unzip the data and place it in your R working directory
  iii.Download the R script in the R working directory and execute
 
