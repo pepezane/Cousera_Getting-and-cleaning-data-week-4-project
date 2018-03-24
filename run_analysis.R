@@ -36,6 +36,7 @@
 
   #tidy table
   
-  tidy <- aggregate(.~ (subID+actID),final,mean)
+tidy <- aggregate(.~ (subID+actID+actlabel),final,mean)
   write.table(tidy,file = "./tidydata.txt", row.names = F, col.names = T)
+  
   
